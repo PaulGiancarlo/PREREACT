@@ -20,7 +20,7 @@ const numbers = [1,2,3,4,5];
 const [one, two] = numbers; // one = 1, two = 2
 console.log(one);
 console.log(two);
-
+console.log(numbers);
 //also with selected items
 const numbers_ = [1,2,3,4,5];
 const [one_, two_, , four_] = numbers_; // one = 1, two = 2, four = 4
